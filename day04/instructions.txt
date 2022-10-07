@@ -1,0 +1,4 @@
+ex02. 
+filter: https://pythonru.com/uroki/funkcija-filter-dlja-nachinajushhih
+
+try/except: 

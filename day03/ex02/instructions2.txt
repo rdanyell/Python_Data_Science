@@ -1,0 +1,22 @@
+установить и запустить вирт.окружение
+mkdir venv_rdanyell
+cd venv_rdanyell 
+python3 -m venv rdanyell02
+source rdanyell02/bin/activate
+
+
+установить BeautifulSoup, PyTest via requirements
+
+написать код, который установит библиотеки
+https://pythonworld.ru/moduli/modul-subprocess.html
+
+https://pyneng.readthedocs.io/ru/latest/book/12_useful_modules/subprocess.html
+
+https://pythonworld.ru/moduli/modul-sys.html
+
+
+ZIP
+tar -czf rdanyell.tgz rdanyell02 
+
+UNZIP
+tar -xvf rdanyell.tgz 
