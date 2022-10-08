@@ -29,3 +29,4 @@ Rush01: This is the best part of the Piscine! We are writing the programm which 
 
 ![newplot](https://user-images.githubusercontent.com/84127497/194544593-3f8c1e5e-fe81-4b68-8bcc-dbec7bbd8e64.png)
 ![output](https://user-images.githubusercontent.com/84127497/194544596-22993ce5-6753-4f9b-9751-f2198c81bac1.png)
+![conf_matrix](https://user-images.githubusercontent.com/84127497/194710109-62a2df49-f9b4-4a21-a64e-18808865af9f.png)
